@@ -1,7 +1,10 @@
 [project]
 name = "langchain-azure-ai-foundary-tracing"
 version = "0.1.0"
-description = "Add your description here"
+description = "testing tracing with langchain"
+authors = [
+    { name = "Mindfultime", email = "mindful.time@outlook.com" }
+]
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
